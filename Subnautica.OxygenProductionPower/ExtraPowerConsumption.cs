@@ -4,7 +4,7 @@ using BepInEx.Logging;
 namespace Subnautica.ExtraPowerConsumption
 {
 	[BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
-	[BepInDependency("com.snmodding.nautilus")]
+	[BepInDependency(Nautilus.PluginInfo.PLUGIN_GUID)]
 	public class ExtraPowerConsumption : BaseUnityPlugin
 	{
 		internal static ExtraPowerConsumptionSaveData SaveData;
