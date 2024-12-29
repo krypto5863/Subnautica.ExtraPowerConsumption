@@ -1,1 +1,1 @@
-You probably want to get the actual mod from the [nexus page](https://github.com/krypto5863/Subnautica.ExtraPowerConsumption).
+You probably want to get the actual mod from the [nexus page](https://www.nexusmods.com/subnautica/mods/1994).
