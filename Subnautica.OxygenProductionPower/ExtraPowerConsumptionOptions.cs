@@ -20,7 +20,7 @@ public class ExtraPowerConsumptionOptions : ModOptions
 
 	public static ExtraPowerConsumptionOptions Main;
 
-	public ExtraPowerConsumptionOptions(ConfigFile config) : base("OxygenConsumption Production Power")
+	public ExtraPowerConsumptionOptions(ConfigFile config) : base("Extra Power Consumption")
 	{
 		Main = this;
 
